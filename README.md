@@ -4,7 +4,7 @@
 A social network for publishing personal diaries.
 
 
-![](logo.png)
+![Logo](file:///D:/Dev/yatube_project/logo.png)
 
 ## Technologies
 

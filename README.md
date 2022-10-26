@@ -4,7 +4,7 @@
 A social network for publishing personal diaries.
 
 
-[](c:/Users/mo4an/Desktop/README.md)
+![](logo.png)
 
 ## Technologies
 
